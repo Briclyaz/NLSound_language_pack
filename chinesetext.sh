@@ -305,3 +305,6 @@ HW_WCD="主要音訊編解碼器 : Qualcomm WCD (Aqstic Hi-Fi)"
 HW_ESS="獨立 Hi-Fi DAC   : ESS Sabre"
 HW_AKM="獨立 Hi-Fi DAC   : Asahi Kasei (AKM)"
 HW_SOC="主要音訊編解碼器 : 處理器整合式音訊解碼 (SoC)"
+
+LABEL_AMP="擴大機"
+LABEL_CODEC="音訊編解碼器"
