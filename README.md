@@ -167,4 +167,3 @@ NLSound_language_pack/
 Crafted with ❤️ for the **NLSound** community
 
 </div>
-```
