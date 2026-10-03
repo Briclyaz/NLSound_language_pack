@@ -3,11 +3,11 @@
 # 🌐 NLSound Language Pack
 
 <p align="center">
-  <a href="#-english">
-    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
+  <a href="#-en--english">
+    <img src="https://img.shields.io/badge/Language-EN-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
   </a>
-  <a href="#-русский">
-    <img src="https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Русский" />
+  <a href="#-ru--русский">
+    <img src="https://img.shields.io/badge/Язык-RU-red?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Русский" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 ---
 
-<span id="-english"></span>
+<span id="-en--english"></span>
 
-## EN English
+## [EN] English
 
 <details open>
 <summary><b>Click to expand / collapse English documentation</b></summary>
@@ -36,12 +36,12 @@ The **NLSound** audio module features an interactive terminal installer navigate
 
 ### 🌍 Available Languages
 
-| Flag | Language | Localization File | Status |
+| Code | Language | Localization File | Status |
 | :---: | :--- | :--- | :---: |
-| 🇬🇧 | **English** | *Built-in default* | `Ready` |
-| 🇷🇺 | **Русский (Russian)** | [`russiantext.sh`](russiantext.sh) | `Ready` |
-| 🇨🇳 | **中文 (Chinese Simplified)** | [`chinesetext.sh`](chinesetext.sh) | `Ready` |
-| 🇪🇸 | **Español (Spanish)** | [`spanishtext.sh`](spanishtext.sh) | `Ready` |
+| `EN` | **English** | *Built-in default* | `Ready` |
+| `RU` | **Русский (Russian)** | [`russiantext.sh`](russiantext.sh) | `Ready` |
+| `ZH` | **中文 (Chinese Simplified)** | [`chinesetext.sh`](chinesetext.sh) | `Ready` |
+| `ES` | **Español (Spanish)** | [`spanishtext.sh`](spanishtext.sh) | `Ready` |
 
 > [!NOTE]  
 > The index of active and selectable languages is registered in [`languages.txt`](languages.txt).
@@ -84,16 +84,16 @@ Contributions are always welcome! If you want to translate the installer into yo
 * **Telegram Support Chat:** [@nlsound_support](https://t.me/nlsound_support)
 
 <div align="right">
-  <a href="#-русский">🇷🇺 Перейти к русской версии ⬆️</a>
+  <a href="#-ru--русский">[RU] Перейти к русской версии ⬆️</a>
 </div>
 
 </details>
 
 ---
 
-<span id="-русский"></span>
+<span id="-ru--русский"></span>
 
-## 🇷🇺 Русский
+## [RU] Русский
 
 <details open>
 <summary><b>Нажмите, чтобы развернуть / скрыть русскую документацию</b></summary>
@@ -107,12 +107,12 @@ Contributions are always welcome! If you want to translate the installer into yo
 
 ### 🌍 Доступные языки
 
-| Флаг | Язык | Файл локализации | Статус |
+| Код | Язык | Файл локализации | Статус |
 | :---: | :--- | :--- | :---: |
-| 🇬🇧 | **English** | *Встроен по умолчанию* | `Готово` |
-| 🇷🇺 | **Русский (Russian)** | [`russiantext.sh`](russiantext.sh) | `Готово` |
-| 🇨🇳 | **中文 (Chinese Simplified)** | [`chinesetext.sh`](chinesetext.sh) | `Готово` |
-| 🇪🇸 | **Español (Spanish)** | [`spanishtext.sh`](spanishtext.sh) | `Готово` |
+| `EN` | **English** | *Встроен по умолчанию* | `Готово` |
+| `RU` | **Русский (Russian)** | [`russiantext.sh`](russiantext.sh) | `Готово` |
+| `ZH` | **中文 (Chinese Simplified)** | [`chinesetext.sh`](chinesetext.sh) | `Готово` |
+| `ES` | **Español (Spanish)** | [`spanishtext.sh`](spanishtext.sh) | `Готово` |
 
 > [!NOTE]  
 > Список активных и доступных для выбора языков зарегистрирован в файле [`languages.txt`](languages.txt).
@@ -155,7 +155,7 @@ NLSound_language_pack/
 * **Чат поддержки в Telegram:** [@nlsound_support](https://t.me/nlsound_support)
 
 <div align="right">
-  <a href="#-english">🇬🇧 Switch to English version ⬆️</a>
+  <a href="#-en--english">[EN] Switch to English version ⬆️</a>
 </div>
 
 </details>
