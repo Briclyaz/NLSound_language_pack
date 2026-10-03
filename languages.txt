@@ -1,0 +1,3 @@
+russiantext.sh|Русский|RU
+spanishtext.sh|Español|ES
+chinesetext.sh|繁體中文|ZH
