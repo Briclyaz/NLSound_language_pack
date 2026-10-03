@@ -311,3 +311,6 @@ HW_WCD="Основной аудиокодек  : Qualcomm WCD (Aqstic Hi-Fi)"
 HW_ESS="Выделенный Hi-Fi ЦАП : ESS Sabre"
 HW_AKM="Выделенный Hi-Fi ЦАП : Asahi Kasei (AKM)"
 HW_SOC="Основной аудиокодек  : Встроенный кодек процессора (SoC)"
+
+LABEL_AMP="Усилитель"
+LABEL_CODEC="Аудиокодек"
