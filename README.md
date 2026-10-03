@@ -22,7 +22,7 @@
 
 <span id="-english"></span>
 
-## 🇬🇧 English
+## EN English
 
 <details open>
 <summary><b>Click to expand / collapse English documentation</b></summary>
