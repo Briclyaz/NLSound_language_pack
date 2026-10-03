@@ -311,3 +311,6 @@ HW_WCD="Códec de audio principal: Qualcomm WCD (Aqstic Hi-Fi)"
 HW_ESS="DAC Hi-Fi dedicado      : ESS Sabre"
 HW_AKM="DAC Hi-Fi dedicado      : Asahi Kasei (AKM)"
 HW_SOC="Códec de audio principal: Códec integrado del procesador (SoC)"
+
+LABEL_AMP="Amplificador"
+LABEL_CODEC="Códec de audio"
